@@ -1,5 +1,5 @@
 {
-  "name": "cayman/yigao",
+  "name": "drcayman/yigao",
   "description": "易高票务平台",
   "keywords": [
     "yigao","瘦西湖","易高"
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "cayman\\Yigao\\": "src"
+      "drcayman\\Yigao\\": "src"
     }
   }
 }
