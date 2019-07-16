@@ -1,0 +1,25 @@
+{
+  "name": "Cayman/yigao",
+  "description": "易高票务平台",
+  "keywords": [
+    "yigao","瘦西湖","易高"
+  ],
+  "license": "GPL-3.0+",
+  "homepage": "http://blog.szwyll.com",
+  "type": "library",
+  "authors": [
+    {
+      "name": "cayman",
+      "email": "dr_cayman@163.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cayman\\Yigao\\": "src"
+    }
+  }
+}
