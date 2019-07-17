@@ -17,9 +17,9 @@ $config =[
     'api_url'=>'http://fx.egoal.com.cn/api/egoalv2/api/'
 ];
 
-$obj = new \Cayman\Yigao\obj\GetTicketTypes();
+$obj = new \drcayman\yigao\obj\GetTicketTypes();
 
-$lite = new \Cayman\Yigao\Lite($config);
+$lite = new \drcayman\yigao\Lite($config);
 
 
 var_dump($lite->exec('GetTicketTypes',$obj));

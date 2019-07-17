@@ -5,7 +5,7 @@
  * mail: dr_cayman@163.com
  * blog: blog.szwyll.com
  */
-namespace Cayman\Yigao\obj;
+namespace drcayman\yigao\obj;
 
 /**
  * 票类查询

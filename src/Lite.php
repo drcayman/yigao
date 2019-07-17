@@ -5,7 +5,7 @@
  * mail: dr_cayman@163.com
  * blog: blog.szwyll.com
  */
-namespace Cayman\Yigao;
+namespace drcayman\yigao;
 
 
 class Lite

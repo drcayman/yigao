@@ -6,7 +6,7 @@
  * blog: blog.szwyll.com
  */
 
-namespace Cayman\Yigao\obj;
+namespace drcayman\yigao\obj;
 
 
 class RequestRefund
