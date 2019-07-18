@@ -44,7 +44,7 @@ class Lite
         }catch (\Exception $e){
             return $e;
         }
-        $data['ResponseBody'] = base64_decode($data['ResponseBody']);
+        $data['ResponseBody'] = json_decode(base64_decode($data['ResponseBody']),true);
         return $data;
     }
 
